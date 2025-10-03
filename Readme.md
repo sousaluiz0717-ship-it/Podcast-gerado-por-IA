@@ -40,6 +40,11 @@ Utilize os prompts do link Notionfornecido na parte de Materiaispara criar um po
 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no NotebookLM
 
 🤖 3. Use os prompts de artes nomidjourney
+______________________________________________________________________________________________________________________________
+Autor:
+Luiz Sousa
+
+
 
 
 
